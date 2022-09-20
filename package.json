@@ -1,0 +1,10 @@
+{
+	"name": "hello-node",
+	"version": "1.0.0",
+	"author": "cesarf",
+	"dependencies": {
+		"express": "*",
+		"method-override": "*",
+		"body-parser": "*"
+	}
+}
